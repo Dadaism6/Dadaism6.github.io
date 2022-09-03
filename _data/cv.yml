@@ -9,7 +9,17 @@
       value : 310-254-5864
     - name: Location
       value: Los Angeles, CA 90024
-
+- title: Technical Skills
+  type: map
+  contents:
+    - name: Languages
+      value: Python, C++, Java, Shell, MATLAB
+    - name : Front End
+      value : JavaScript, HTML/CSS, React
+    - name : Database & Deployment
+      value : MySQL, GCP, Docker
+    - name: Others
+      value: Robotics, CV, ML, NLP
 - title: Education
   type: time_table
   contents:
@@ -48,37 +58,38 @@
         - Processed RNA sequence data and performed PCA, data visualization and other data analysis on it, using Python and R.
         - Proved that Low-coverage RNA sequencing is an effective approach in Expression quantitative trait loci studies and can save the cost by more than 50%. Learn more details via the paper <a href="https://www.sciencedirect.com/science/article/pii/S2666247722000197?via%3Dihub">Powerful eQTL mapping through low-coverage RNA sequencing</a>.
 
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Online Text Generation Server
+      year: 2022.3 - 2022.6
+      description: 
+        - Built a NGINX standard web server with REST API capabilities using C++ and Boost Library.
+        - "Constructed a CI/CD Pipeline on GCP: Detailed log info, test coverage monitoring using Google Test, and code review using gerrit. Setup a monitor dashboard to record up-time and request latency."
+        - <a href="https://github.com/Dadaism6/UCLA-CS130-Googolplex">Source Code</a>
+    - title: Online Basketball-shooting Game
+      year: 2021.10 - 2021.12
+      description:
+        - Designed and implemented an online basketball-shooting game with advanced graphic features, including shadow, texture, and reflections, using JavaScript and WebGL.
+        - <a href="https://basketball-shooting.herokuapp.com">Demo</a>
+    - title: Egglendar Online Calendar
+      year: 2020.10 - 2020.12
+      description:
+        - Developed an online student calendar specially for international students, with features of importing and converting calendars, adding school course schedules, and finding classmates.
+        - Using Material-UI for designing and React for the front-end framework, and MySQL as the database.
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019 - 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Dean's Honors List * 9
+        - Summa Cum Laude
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <a>Sports:</a> Basketball (I can dunk!), Badminton
+    - <a>Music:</a> Double-keyboard Electone
+    - <a>Gaming:</a> League of Legends, BattleField, Overwatch, Terraria

@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: UCLA MSCS Class of 2024 | B.S CS Class of 2022
-order: 5
+nav_order: 1
 profile:
   align: right
   image: chenda_pic.png
