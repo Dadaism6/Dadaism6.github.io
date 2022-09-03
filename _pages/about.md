@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: UCLA MSCS Class of 2024 | B.S CS Class of 2022
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chenda_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>940 Tiverton Ave</p>
+    <p>Los Angeles, CA, 90024</p>
+    <p>Phone: 310-254-5864</p>
+    <p>Email: chenda@ucla.edu</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hello! I am Chenda Duan, an incoming MS student at UCLA CS.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Previously, I just graduated from UCLA with B.S Computer Science. I maintained a `perfect 4.0 GPA` during my undergraduate! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am broadly interested in Robotics, CV, ML (RL), and other interdisciplinary fields. I am also a quick learner and an active developer. If you find anything you would like to know about, please feel free to contact me! `You can find my contact info and other social meida at the bottom of the page`.   I am willing to have a chat with anything!contact
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I participated in three research teams at UCLA. I work on designing and understanding human-interactable reinforcement learning. I investigate methods to make a robust robot (including soft robot and agricultural robot) using variaty CV and ML methods at the Structures-Computer Interaction lab. Learn More on SC-I And I also worked on eqtl mapping and other things related to bioinformatics at UCLA Center for Neurobehavioral Genetics.
+
+I am also actively looking for summer internships on SDE or Research positions! 
