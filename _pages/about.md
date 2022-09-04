@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UCLA MSCS Class of 2024 | B.S CS Class of 2022
+subtitle: UCLA MS. CS Class of 2024 | BS. CS Class of 2022
 nav_order: 1
 profile:
   align: right
@@ -22,7 +22,7 @@ Hello! I am Chenda Duan, an incoming MS student at UCLA CS.
 
 Previously, I just graduated from UCLA with B.S Computer Science. I maintained a `perfect 4.0 GPA` during my undergraduate! 
 
-I am broadly interested in Robotics, CV, ML (RL), and other interdisciplinary fields. I am also a quick learner and an active developer. If you find anything you would like to know about, please feel free to contact me! `You can find my contact info and other social meida at the bottom of the page`.  I am willing to have a chat with anything!
+I am broadly interested in Robotics, CV, ML (RL), and other interdisciplinary fields. I am also a quick learner and an active developer. If you find anything you would like to know about, please feel free to contact me! I am willing to have a chat with anything! `You can find my contact info and other social meida at the bottom of the page`.  
 
 I participated in three research teams at UCLA. I work on designing and understanding human-interactable reinforcement learning. I investigate methods to make a robust robot (including soft robot and agricultural robot) using variaty CV and ML methods at the Structures-Computer Interaction lab. Learn More on SC-I And I also worked on eqtl mapping and other things related to bioinformatics at UCLA Center for Neurobehavioral Genetics.
 
