@@ -6,7 +6,7 @@ subtitle: UCLA MS. Computer Science Class of 2024 | BS. Computer Science Class o
 nav_order: 1
 profile:
   align: right
-  image: chenda_pic.png
+  image: chenda_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>940 Tiverton Ave</p>
