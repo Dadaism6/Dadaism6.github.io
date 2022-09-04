@@ -41,7 +41,8 @@
       institution: UCLA Prof. Bolei Zhou’s Group
       year: 2022.3 - Present
       description:
-        - Currently developing an improved version of the Human-in-the-loop Reinforcement Learning (RL). The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods such as SAC, using Python(PyTorch).
+        # - Currently developing an improved version of the Human-in-the-loop Reinforcement Learning (RL). The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods such as SAC, using Python(PyTorch).
+        - More info will be listed later, after paper open review.
         - Developing more photorealistic simulation environment for training RL autopilot agent using Unreal Engine 4 and Microsoft Airsim.
 
     - title: Student Researcher
