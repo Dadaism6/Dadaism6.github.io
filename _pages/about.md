@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UCLA MS. CS Class of 2024 | BS. CS Class of 2022
+subtitle: UCLA MS. Computer Science Class of 2024 | BS. Computer Science Class of 2022
 nav_order: 1
 profile:
   align: right
