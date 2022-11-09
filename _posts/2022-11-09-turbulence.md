@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The recession, the decision?
-date: 2022-11-09 16:00:00
+date: 2022-11-08 16:00:00
 description: "The recession of the tech industry question me again: is it a good choice?"
 tags: random-thought
 categories: random-thought
