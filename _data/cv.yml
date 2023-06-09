@@ -19,7 +19,7 @@
     - name : Database & Deployment
       value : MySQL, GCP, Docker
     - name: Others
-      value: Robotics, CV, ML, NLP
+      value: Robotics, CV, ML, NLP, Andriod, Unreal Engine
 - title: Education
   type: time_table
   contents:
@@ -28,7 +28,9 @@
       year: 2022.9 - 2024.6
       description:
         - "<b><big>GPA</big></b>: 4.0"
-        - "<b><big>Teaching</big></b>: Teaching Assistant for CS174A: Intro to Computer Graphics, lectured more than 50 students. Leading the discussion session with more than 50 students, lecturing advanced graphic knowledge and Javascript."
+        - "<b><big>Teaching</big></b>: Teaching Assistant for CS174A: Intro to Computer Graphics. Leading the discussion session with more than 50 students, lecturing advanced graphic knowledge and Javascript."
+        - "<b><big>Teaching</big></b>: Teaching Assistant for CS33: Introduction to Computer Organization. Leading the discussion session with more than 50 students, lecturing basically computer organization and  architecture knowledge."
+        - "<b><big>Core Courses</big></b>:  Cloud Computing, Data Mining, Adversarial Attack and Robustness, Advanced Computer Architecture, Hardware For Machine Learning. 
     - title: Bacholar of Science, Computer Science
       institution: University of California - Los Angeles, Los Angeles, CA, USA
       year: 2019.9 - 2022.6
@@ -40,12 +42,18 @@
 - title: Work / Research Experience
   type: time_table
   contents:
+    - title: Vision Algorithm Research Engineer 
+      institution: Kuaishou Technology
+      year: 2023.6 - Present
+      description:
+        -	Developing lightweighted 3d reconstruction and physical rendering models. 
     - title: Student Researcher
       institution: UCLA Prof. Bolei Zhou’s Group
       year: 2022.3 - Present
       description:
         # - Currently developing an improved version of the Human-in-the-loop Reinforcement Learning (RL). The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods such as SAC, using Python(PyTorch).
-        - More info will be listed later, after paper open review.
+        - A work about Human-in-the-loop RL, more information will be released after the open review.
+        - A work about large-scale traffic scenario modeling and simulation, more information will be released after the open review.
         - Developing more photorealistic simulation environment for training RL autopilot agent using Unreal Engine 4 and Microsoft Airsim.
 
     - title: Student Researcher
@@ -65,6 +73,11 @@
 - title: Projects
   type: time_table
   contents:
+    - title: AR Glass Assistants APP	 
+      year: 2023.3 - 2023.6
+      description:
+        -	Built client-server twin Android apps that can run on mobile AR glasses to capture videos and sounds, sending compressed data to the phones via Wifi or Bluetooth for object/audio detection, and transfer data back. 
+        - Careful design of the congestion control, motion adjusting, etc
     - title: Online Text Generation Server
       year: 2022.3 - 2022.6
       description: 
