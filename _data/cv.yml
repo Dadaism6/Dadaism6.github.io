@@ -74,10 +74,10 @@
 - title: Projects
   type: time_table
   contents:
-    - title: AR Glass Assistants APP	 
+    - title: AR Glass Assistants APP
       year: 2023.3 - 2023.6
       description:
-        -	Built client-server twin Android apps that can run on mobile AR glasses to capture videos and sounds, sending compressed data to the phones via Wifi or Bluetooth for object/audio detection, and transfer data back. 
+        - Built client-server twin Android apps that can run on mobile AR glasses to capture videos and sounds, sending compressed data to the phones via Wifi or Bluetooth for object/audio detection, and transfer data back. 
         - Careful design of the congestion control, motion adjusting, etc.
     - title: Online Text Generation Server
       year: 2022.3 - 2022.6
