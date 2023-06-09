@@ -46,9 +46,10 @@
       institution: Kuaishou Technology
       year: 2023.6 - Present
       description:
-        -	Developing lightweighted 3d reconstruction and physical rendering models. 
+        -	Developing lightweighted 3d reconstruction and physical rendering models.
+
     - title: Student Researcher
-      institution: UCLA Prof. Bolei Zhou’s Group
+      institution: UCLA Prof. Bolei Zhou's Group
       year: 2022.3 - Present
       description:
         # - Currently developing an improved version of the Human-in-the-loop Reinforcement Learning (RL). The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods such as SAC, using Python(PyTorch).
