@@ -8,9 +8,9 @@ category: research
 ---
 From 2022.3 to present.
 
-<!-- At Prof Bolei-Zhou's group, I mainly focused on developing human-in-the-loop reinforcement learning methods. Currently, we are developing an improved version built upon HACO (Human-AI-Copilot Optimization). The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods such as SAC, using Python(PyTorch). -->
+At Prof Bolei-Zhou's group, I mainly focused on developing human-in-the-loop reinforcement learning methods. More about this work will be shown later, after our paper upen review.
 
-More about this work will be shown later, after our paper upen review.
+We also developed scenarionet: open-source platform for large-scale traffic scenario simulation and modeling
 
 I also developed a more photorealistic simulation environment for training RL autopilot agent, using Unreal Engine 4 and Microsoft Airsim.
 

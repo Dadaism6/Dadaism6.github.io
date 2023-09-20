@@ -1,4 +1,5 @@
 # -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
@@ -8,19 +9,19 @@ middle_name:
 last_name: Duan
 email: chenda@ucla.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This is Chenda Duan's personal webpage, where you can learn most of the infos about me!
+  This is Chenda Duan's personal webpage, you can fine most of the info about me here. But still, far from complete:)
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="http://dadaism6.github.io/" target="_blank">GitHub Pages</a>.
   Photos from Chenda's personal collections.
-keywords: Chenda Duan, UCLA, Computer Science, Software Enginner, Reinforcement Learning, University of California, Los Angeles  # add your own keywords or leave empty
+keywords: Chenda Duan, UCLA, Computer Science, Software Engineer, Machine Learning, University of California, Los Angeles, Quantitive Researcher  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: littlechicken.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: http://dadaism6.github.io/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -101,7 +102,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: My Scratch Paper # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: This is not a blog, but rather a "scratch paper" containing my random or even crazy thoughts.
 permalink: /blog/:year/:title/
 

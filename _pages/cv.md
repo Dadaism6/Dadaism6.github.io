@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /resume/
-title: resume
+title: Resume
 nav: true
 nav_order: 2
-cv_pdf: Chenda-Duan--resume-20230608-phd.pdf
+cv_pdf: Chenda-Duan-cv-2023-0821.pdf
 ---

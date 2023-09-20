@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: UCLA MS. Computer Science Class of 2024 | BS. Computer Science Class of 2022
+subtitle: UCLA MS. Computer Science '24 | BS. Computer Science '22
 nav_order: 1
 profile:
   align: right
   image: chenda_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   address: >
     <p>940 Tiverton Ave</p>
     <p>Los Angeles, CA, 90024</p>
@@ -18,13 +18,34 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello! I am Chenda Duan, an first-year MS student at UCLA CS. I currently intern as a machine learning research engineer @ Kuaishou Technology.
+Hello! I'm Chenda Duan, `a first-year MS student in Computer Science at UCLA`, previous interning as a `Machine Learning Research Engineer at Kuaishou Technology` this summer. I recently graduated with a B.S. in Computer Science from UCLA, proudly with a perfect `4.0 GPA`.
 
-Previously, I just graduated from UCLA with B.S Computer Science. I maintained a `perfect 4.0 GPA` during my undergraduate! 
+🔍 **Actively Seeking Opportunities**:
+- **PhD opportunities** focusing on Multi-modal Learning (Vision-language), RL or general AIGC.
+- **Full-time roles** as a Machine Learning Engineer, Software Engineer, or Quant Researcher in the US.
+
+If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
+
+The field of computer science is vast and ever-evolving. Within this expansive domain, it is hard to constrain yourself into a specific area of interest. I am a firm believer in the power of interdisciplinary research and the importance of a broad skillset. I am passionate about the intersection of machine learning, computer vision, and robotics. I am also interested in the application of machine learning in the field of finance and economics.
+
+**Research Interests**:
+- Reinforcement Learning
+- Computer Visoon
+- Multi-modal Learning (Vision-language)
+- Robotics
+
+At UCLA, I've been privileged to collaborate with three prominent research teams:
+
+**Research Groups**:
+- Prof Bolei Zhou'S Group
+- UCLA Structures-Computer Interaction Lab.
+- UCLA's Center for Neurobehavioral Genetics.
 
 
-I am broadly interested in ML (RL), CV, ML, Robotics, and other interdisciplinary fields. I am also a quick learner and an active developer. If you find anything you would like to know about, please feel free to contact me! I am willing to have a chat with anything! `You can find my contact info and other social media at the bottom of the page`.
 
-`I am actively looking for PhD opportunities with the focus on RL or AIGC! I am also actively looking for full time opportunities for Machine Learning Engineer | Software Engineer | Quant Researcher located in US! Feel free to contact me via email if you found my background suited for the position!`
+For more about me, connections, or just a friendly chat, all contact and social media details are available below.
 
-I participated in three research teams at UCLA. I work on designing human-interactable and human-controllable reinforcement learning methods at Prof Zhou's group. I investigate methods to make a robust robot (including soft robot and agricultural robot) using variety CV and ML methods at the Structures-Computer Interaction lab. And I also worked on eQTL mapping and other things related to bioinformatics at UCLA Center for Neurobehavioral Genetics.
+
+
+
+

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hobby
+title: Hobby
 permalink: /hobby/
 description: I am an ordinary man, I like everyhing you like!
 nav: true

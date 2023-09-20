@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
 description: I love the feeling of spreading knowledge!
 nav: true
