@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello! I'm Chenda Duan, `a first-year MS student in Computer Science at UCLA`, previous interning as a `Machine Learning Research Engineer at Kuaishou Technology` this summer. I recently graduated with a B.S. in Computer Science from UCLA, proudly with a perfect `4.0 GPA`.
+Hello! I'm Chenda Duan, `a second-year MS student in Computer Science at UCLA`, previous interning as a `Machine Learning Research Engineer` at Kuaishou Technology this summer. I recently graduated with a B.S. in Computer Science from UCLA, proudly with a perfect `4.0 GPA`.
 
 🔍 **Actively Seeking Opportunities**:
 - **PhD opportunities** focusing on Multi-modal Learning (Vision-language), RL or general AIGC.
