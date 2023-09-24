@@ -1,24 +1,30 @@
 ---
 ---
-
-@string{aps = {American Physical Society,}}
-@book{chenda_rl2,
-  abbr={Under Review},
+@book{chenda_rl1,
+  abbr={NeurIPS 2023 Spotlight},
+  teaser_video={cover_HACO.mp4},
   bibtex_show={true},
+  title={Learning from Active Human Involvement through Proxy Value Propagation},
+  author={Zhenghao Peng and Wenjie Mo and Chenda Duan and Quanyi Li and Bolei Zhou},
+  year={2023},
+  abstract = {Summary
+  Learning from active human involvement enables the human subject to actively intervene and demonstrate to the AI agent during training. It brings safety and AI alignment to the learning process. In this work, we propose a new reward-free active human involvement method called Proxy Value Propagation for policy optimization. Our key insight is that a proxy value function can be designed to express human intents, wherein state-action pairs in the human demonstration are labeled with high values, while those agents' actions that are intervened receive low values. Through the TD-learning framework, labeled values of demonstrated state-action pairs are further propagated to other unlabeled data generated from agents' exploration. The proxy value function thus induces a policy that faithfully emulates human behaviors. Human-in-the-loop experiments show the generality and efficiency of our method. With minimum modification to existing reinforcement learning algorithms, our method can learn to solve continuous and discrete control tasks with various human control devices, including the challenging task of driving in Grand Theft Auto V. Demo video and code are in the supplementary material and will be made public.},
+}
+@book{chenda_rl2,
+  abbr={NeurIPS 2023},
+  teaser={cover_ScenarioNet.gif},
+  bibtex_show={true},
+  html = {https://metadriverse.github.io/scenarionet/},
   title={ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling},
   author={Quanyi Li and Zhenghao Peng and Lan Feng and Zhizheng Liu and Chenda Duanand Wenjie Mo and Bolei Zhou },
   year={2023},
-}
-@book{chenda_rl1,
-  abbr={Under Review},
-  bibtex_show={true},
-  title={Under Review: A paper about Human-in-the-loop RL},
-  author={Chenda Duan, and other 3 athuors, more detail will be listed after the review.},
-  year={2023},
+  abstract = {Summary
+  Large-scale driving datasets such as Waymo Open Dataset and nuScenes substantially accelerate autonomous driving research, especially for perception tasks such as 3D detection and trajectory forecasting. Since the driving logs in these datasets contain HD maps and detailed object annotations which accurately reflect the real-world complexity of traffic behaviors, we can harvest a massive number of complex traffic scenarios and recreate their digital twins in simulation. Compared to the hand-crafted scenarios often used in existing simulators, data-driven scenarios collected from the real world can facilitate many research opportunities in machine learning and autonomous driving. In this work, we present ScenarioNet, an open-source platform for large-scale traffic scenario modeling and simulation. ScenarioNet defines a unified scenario description format and collects a large-scale repository of real-world traffic scenarios from the heterogeneous data in various driving datasets including Waymo, nuScenes, Lyft L5, and nuPlan datasets. These scenarios can be further replayed and interacted with in multiple views from Bird-Eye-View layout to realistic 3D rendering in MetaDrive simulator. This provides a benchmark for evaluating the safety of autonomous driving stacks in simulation before their real-world deployment. We further demonstrate the strengths of ScenarioNet on large-scale scenario generation, imitation learning, and reinforcement learning in both single-agent and multi-agent settings.},
 }
 @article{chenda_bioinfo2,
-  abbr={bioRxiv},
+  abbr={European Neuropsychopharmacology},
   bibtex_show={true},
+  teaser={cover_celltype.png},
   title = {Cell type deconvolution of bulk blood RNA-Seq to reveal biological insights of neuropsychiatric disorders},
   journal = {European Neuropsychopharmacology},
   year = {2022},
@@ -30,6 +36,7 @@ Genome-wide association studies (GWAS) have uncovered susceptibility loci associ
 }
 @article{chenda_bioinfo1,
   abbr={HGG Advance},
+  teaser={cover_eqtl.jpg},
   bibtex_show={true},
   title = {Powerful eQTL mapping through low-coverage RNA sequencing},
   journal = {Human Genetics and Genomics Advances},

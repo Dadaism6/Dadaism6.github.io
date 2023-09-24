@@ -459,6 +459,7 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -466,12 +467,15 @@ footer.sticky-bottom {
     margin-top: 1em;
     margin-bottom: 1em;
   }
+
   h2 {
     margin-bottom: 1rem;
+
     span {
       font-size: 1.5rem;
     }
   }
+
   h2.year {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
@@ -480,6 +484,7 @@ footer.sticky-bottom {
     margin-bottom: -2rem;
     text-align: right;
   }
+
   ol.bibliography {
     list-style: none;
     padding: 0;
@@ -487,56 +492,88 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+      padding-bottom: 1.5rem;
+
       .preview {
         width: 100%;
         min-width: 80px;
         max-width: 200px;
       }
-      .abbr {
-        height: 2rem;
-        margin-bottom: 0.5rem;
-        abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          a {
-            color: white;
-            &:hover {
-              text-decoration: none;
+
+      .leftcolumn {
+        display: grid;
+        justify-content: end;
+
+        .abbr {
+          min-height: 150px;
+          //min-width: 180px;
+          height: 2rem;
+          margin-bottom: 0.5rem;
+
+          abbr {
+            display: inline-block;
+            background-color: var(--global-theme-color);
+            padding-left: 1rem;
+            padding-right: 1rem;
+            position: absolute;
+            top: 12px;
+            left: 16px;
+
+            a {
+              color: white;
+
+              &:hover {
+                text-decoration: none;
+              }
             }
           }
-        }
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
-      }
-      .title {
-        font-weight: bolder;
-      }
-      .author {
-        a {
-          border-bottom: 1px dashed var(--global-theme-color);
-          &:hover {
-              border-bottom-style: solid;
-              text-decoration: none;
+
+          .award {
+            color: var(--global-theme-color) !important;
+            border: 1px solid var(--global-theme-color);
           }
         }
+      }
+
+      .title {
+        font-weight: bolder;
+        font-size: 110%;
+        padding-bottom: 0.2em;
+      }
+
+      .author {
+
+        font-size: 100%;
+
+        a {
+          border-bottom: 1px dashed var(--global-theme-color);
+
+          &:hover {
+            border-bottom-style: solid;
+            text-decoration: none;
+          }
+
+          border-bottom: 1px dashed var(--global-text-color);
+          color: var(--global-text-color)
+        }
+
         > em {
           border-bottom: 1px solid;
           font-style: normal;
         }
+
         > span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
+
           &:hover {
-              color: var(--global-text-color);
-              border-bottom: 1px dashed var(--global-text-color);
+            color: var(--global-text-color);
+            border-bottom: 1px dashed var(--global-text-color);
           }
         }
       }
+
       .links {
         a.btn {
           color: var(--global-text-color);
@@ -545,12 +582,31 @@ footer.sticky-bottom {
           padding-right: 1rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
+          margin-left: 0;
+
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
           }
         }
       }
+
+      .badges {
+        padding-bottom: 0.5rem;
+
+        span {
+          display: inline-block;
+          color: $black-color;
+          height: 100%;
+          padding-right: 0.5rem;
+          vertical-align: middle;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+
       .hidden {
         font-size: 0.875rem;
         max-height: 0px;
@@ -566,12 +622,14 @@ footer.sticky-bottom {
           line-height: 1.4em;
           margin: 10px;
         }
+
         pre {
           font-size: 1em;
           line-height: 1.4em;
           padding: 10px;
         }
       }
+
       .hidden.open {
         max-height: 100em;
         transition-property: 0.15s ease;
@@ -580,12 +638,51 @@ footer.sticky-bottom {
         -o-transition: 0.15s ease;
         transition: all 0.15s ease;
       }
+
       div.abstract.hidden {
         border: dashed 1px var(--global-bg-color);
       }
+
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+
+
+      .teaser {
+        border-radius: 8px;
+        box-shadow: 3px 3px 6px #888;
+        height: 150px;
+        width: 200px;
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        object-fit: cover;
+      }
+
+      .videoplayer {
+        border-radius: 8px;
+        height: 150px;
+        width: 200px;
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        object-fit: cover;
+      }
+
+      .videoplayer video {
+        border-radius: 8px;
+        box-shadow: 3px 3px 6px #888;
+        height: 150px;
+        width: 200px;
+        object-fit: cover;
+      }
+
+      // Hack to remove useless links
+      .details {
+        font-size: 0em;
+      }
+
+
     }
   }
 }

@@ -54,9 +54,8 @@
       institution: UCLA Prof. Bolei Zhou's Group
       year: 2022.3 - Present
       description:
-        # - Currently developing an improved version of the Human-in-the-loop Reinforcement Learning (RL). The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods such as SAC, using Python(PyTorch).
-        # - Developed an improved Human-in-the-loop Reinforcement Learning (RL) method. The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods. Using PyTorch. Paper Submitted to NeurIPS 2023.
-        - Built and tested a platform for large-scale traffic scenario modeling and simulation for RL, IL, and autonomous driving. Paper Submitted to NeurIPS 2023.
+        - ·	Developed an improved Human-in-the-loop Reinforcement Learning (RL) method. The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods. Using PyTorch. Paper accepted to <b><u>NeurIPS 2023 Spotlight</u></b>.
+        - Built and tested a platform for large-scale traffic scenario modeling and simulation for RL, IL, and autonomous driving. Paper accepted to <a href="https://arxiv.org/abs/2306.12241">NeurIPS 2023</a>.
         - Implemented a more photorealistic simulation environment for training RL autopilot agents using UE4.
 
     - title: Student Researcher
@@ -125,4 +124,4 @@
   contents:
     - <a>Sports:</a> Basketball (I can dunk!), Badminton
     - <a>Music:</a> Double-keyboard Electone
-    - <a>Gaming:</a> League of Legends, BattleField, Overwatch, Terraria
+    - <a>Gaming:</a> League of Legends, Valorant, BattleField, Overwatch, Terraria, Many more on steam and epic.
