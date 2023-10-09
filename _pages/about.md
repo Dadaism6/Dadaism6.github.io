@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 Hello! I'm Chenda Duan, `a second-year MS student in Computer Science at UCLA`, previous interning as a `Machine Learning Research Engineer` at Kuaishou Technology this summer. I recently graduated with a B.S. in Computer Science from UCLA, proudly with a perfect `4.0 GPA`.
 
 🔍 **Actively Seeking Opportunities**:
-- **PhD opportunities** focusing on Multi-modal Learning, RL, AI for X (medicine, bio), or general AIGC.
+- **PhD opportunities** focusing on Multi-modal Learning, RL, AI for Medicine/Bio, and general AIGC.
 - **Full-time roles** as a Machine Learning Engineer, Software Engineer, or Quant Researcher in the US.
 
 If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
@@ -59,24 +59,24 @@ If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.e
 
 <h2 style="margin-top: 50px;">About my academics.</h2>
 
-The field of computer science is vast and ever-evolving. Within this expansive domain, it is hard to constrain yourself into a specific area of interest. I am a firm believer in the power of interdisciplinary research and the importance of a broad skillset. I am passionate about the intersection of machine learning, computer vision, and robotics. I am also interested in the application of machine learning in the field of finance and economics.
+The field of computer science is vast and ever-evolving. Within this expansive domain, it is hard to constrain yourself into a specific area of interest. I am a firm believer in the power of interdisciplinary research and the importance of a broad skillset. I am passionate about the intersection of machine learning, computer vision, and robotics. I am also very interested in the application of machine learning in the field of Biology, Medicine, and Economics.
 
 **Research Interests**:
 - Reinforcement Learning
-- Computer Visoon
 - Multi-modal Learning (Vision-language)
+- AI for Medicine, Computational Bio
 - Robotics
-- AI for X
+
 
 At UCLA, I've been privileged to collaborate with three prominent research teams:
 
 **Research Groups**:
-- Prof Bolei Zhou'S Group
-- UCLA Structures-Computer Interaction Lab.
+- UCLA Prof Bolei Zhou'S Group
 - UCLA's Center for Neurobehavioral Genetics.
+- UCLA Structures-Computer Interaction Lab.
 
 
-For more about me, connections, or just a friendly chat, all contact and social media details are available below.
+For more information about me, connections, or just a friendly chat, all contact and social media details are available below.
 
 
 
