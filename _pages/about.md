@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <h2 style="margin-top: 50px;">About me</h2>
-Hello! I'm Chenda Duan, `a second-year MS student in Computer Science at UCLA`, previous interning as a `Machine Learning Research Engineer` at Kuaishou Technology this summer. I recently graduated with a B.S. in Computer Science from UCLA, proudly with a perfect `4.0 GPA`.
+Hello! I'm Chenda Duan, `a second-year MS student in Computer Science at UCLA`, advised by Prof. [Bolei Zhou](https://boleizhou.github.io/), previous interning as a `Machine Learning Research Engineer` at Kuaishou Technology this summer. I recently graduated with a B.S. in Computer Science from UCLA, proudly with a perfect `4.0 GPA`.
 
 🔍 **Actively Seeking Opportunities**:
 - **PhD opportunities** focusing on Multi-modal Learning, RL, AI for Medicine/Bio, and general AIGC.
