@@ -18,11 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <h2 style="margin-top: 50px;">About me</h2>
-Hello! I'm Chenda Duan, `a second-year MS student in Computer Science at UCLA`, advised by Prof. [Bolei Zhou](https://boleizhou.github.io/), previous interning as a `Machine Learning Research Engineer` at Kuaishou Technology this summer. I recently graduated with a B.S. in Computer Science from UCLA, proudly with a perfect `4.0 GPA`.
+Hello! I'm Chenda Duan, `a second-year MS student in Computer Science at UCLA`, advised by Prof. [Bolei Zhou](https://boleizhou.github.io/). I will be joining Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/)'s group as a Ph.D student starting this fall. Previously, I graduated with a B.S. in Computer Science from UCLA as well! (So, 10 years at UCLA...)
 
 🔍 **Actively Seeking Opportunities**:
-- **PhD opportunities** focusing on Multi-modal Learning, RL, AI for Medicine/Bio, and general AIGC.
-- **Full-time roles** as a Machine Learning Engineer, Software Engineer, or Quant Researcher in the US.
+- **Summer Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
 
 If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
 
@@ -59,18 +58,19 @@ If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.e
 
 <h2 style="margin-top: 50px;">About my academics.</h2>
 
-The field of computer science is vast and ever-evolving. Within this expansive domain, it is hard to constrain yourself into a specific area of interest. I am a firm believer in the power of interdisciplinary research and the importance of a broad skillset. I am passionate about the intersection of machine learning, computer vision, and robotics. I am also very interested in the application of machine learning in the field of Biology, Medicine, and Economics.
+The field of computer science is vast and ever-evolving. Within this expansive domain, it is hard to constrain yourself into a specific area of interest. I am a firm believer in the power of interdisciplinary research and the importance of a broad skillset. I am passionate about the intersection of machine learning, computer vision, LLMs, and robotics. I am also very interested in the application of machine learning in the field of Biology, Medicine, and Economics.
 
 **Research Interests**:
+- AI for Science
+- LLM, LMMs
 - Reinforcement Learning
-- Multi-modal Learning (Vision-language)
-- AI for Medicine, Computational Bio
 - Robotics
 
 
 At UCLA, I've been privileged to collaborate with three prominent research teams:
 
 **Research Groups**:
+- UCLA Prof Vwani Roychowdhury's Group
 - UCLA Prof Bolei Zhou'S Group
 - UCLA's Center for Neurobehavioral Genetics.
 - UCLA Structures-Computer Interaction Lab.
