@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: UCLA MS. Computer Science 24' | BS. Computer Science 22'
+subtitle: UCLA Ph.D Computer Engineering | MS. Computer Science 24' | BS. Computer Science 22'
 nav_order: 1
 profile:
   align: right
-  image: chenda_pic.jpg
+  image: chenda_newpic.jpg
   image_circular: True # crops the image to make it circular
   address: >
-    <p>Los Angeles, CA, 90024</p>
-    <p>Phone: 310-254-5864</p>
+    <p>Los Angeles, CA</p>
     <p>Email: chenda@ucla.edu</p>
 
 news: true  # includes a list of news items
@@ -18,10 +17,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <h2 style="margin-top: 50px;">About me</h2>
-Hello! I'm Chenda Duan, `a second-year MS student in Computer Science at UCLA`, advised by Prof. [Bolei Zhou](https://boleizhou.github.io/). I will be joining Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/)'s group as a Ph.D student starting this fall. Previously, I graduated with a B.S. in Computer Science from UCLA as well! (So, 10 years at UCLA...)
+Hello there! I'm Chenda Duan, `a first-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, conducting my master's research under the guidance of Prof. [Bolei Zhou](https://boleizhou.github.io/). During my bachelor's studies, I had the opportunity to work with Prof. [M. Khalid Jawed](https://structures.computer/) and Dr. [Roel Ophoff]. I am a 10-year UCLA Bruin!
+
+My current research lies at the intersection of `AI` and `Medical Neuroscience`. I am particularly focused on applying machine learning techniques to address medical conditions such as epilepsy and Alzheimer's disease, aiming to develop innovative solutions for diagnosis and treatment.
+
+Additionally, I am working on `vision-language/multi-modal models`, with a specific focus on achieving performance comparable to SOTA models like GPT-4 and Gemini for long-horizon video understanding, using regular-sized VLMs and LLMs.
+
+My previous research experience includes work in `autonomous driving, reinforcement learning, and robotic`.
 
 🔍 **Actively Seeking Opportunities**:
-- **Summer Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
+- **2025 Summer Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
 
 If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
 
@@ -58,16 +63,16 @@ If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.e
 
 <h2 style="margin-top: 50px;">About my academics.</h2>
 
-The field of computer science is vast and ever-evolving. Within this expansive domain, it is hard to constrain yourself into a specific area of interest. I am a firm believer in the power of interdisciplinary research and the importance of a broad skillset. I am passionate about the intersection of machine learning, computer vision, LLMs, and robotics. I am also very interested in the application of machine learning in the field of Biology, Medicine, and Economics.
+The field of computer science is vast and ever-evolving. Within this expansive domain, it is hard to constrain yourself into a specific area of interest. I am a firm believer in the power of interdisciplinary research and the importance of a broad skillset. I am passionate about the intersection of machine learning, medical science/neurosicence, computer vision, LLMs, and robotics.
 
 **Research Interests**:
 - AI for Science
-- LLM, LMMs
+- LLM, VLM, LMM
 - Reinforcement Learning
 - Robotics
 
 
-At UCLA, I've been privileged to collaborate with three prominent research teams:
+At UCLA, I've been fortunate to collaborate with three prominent research teams:
 
 **Research Groups**:
 - UCLA Prof Vwani Roychowdhury's Group
