@@ -3,7 +3,7 @@ layout: page
 title: UCLA Center for Neurobehavioral Genetics
 description: Undergraduate Researcher
 img: assets/img/bioinformatics.jpeg
-importance: 1
+importance: 2
 category: research
 ---
 2020.6 - 2022.6

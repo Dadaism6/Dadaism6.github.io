@@ -3,7 +3,7 @@ layout: page
 title: Realistic RL training Environment
 description: Student Researcher
 img: assets/img/airsim.png
-importance: 1
+importance: 3
 category: research
 ---
 From 2022.3 to present. Prof Bolei Zhou's Group

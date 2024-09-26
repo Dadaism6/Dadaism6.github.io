@@ -23,11 +23,18 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D Student, Electrical and Computer Engineering
+      institution: University of California - Los Angeles, Los Angeles, CA, USA
+      year: 2024.9 - 2029.6
+      description:
+        - "<b><big>Research</big></b>: AI for Science, Vision-language Model, Data Analysis, and general Machine Learning"
+        - "<b><big>Teaching</big></b>: Associate Teaching Instructor: Probability and Statistics. "
     - title: Master of Science, Computer Science
       institution: University of California - Los Angeles, Los Angeles, CA, USA
       year: 2022.9 - 2024.6
       description:
-        - "<b><big>GPA</big></b>: 4.0"
+        - "<b><big>GPA</big></b>: 3.9"
+        - "<b><big>Teaching</big></b>: Associate Instructor for CS M152A: Introductory Digital Design Laboratory. Leading the lab, instructing the basic knowledge of verilog and FPGA."
         - "<b><big>Teaching</big></b>: Teaching Assistant for CS174A: Intro to Computer Graphics. Leading the discussion session with more than 50 students, lecturing advanced graphic knowledge and Javascript."
         - "<b><big>Teaching</big></b>: Teaching Assistant for CS33: Introduction to Computer Organization. Leading the discussion session with more than 50 students, lecturing basically computer organization and  architecture knowledge."
         - "<b><big>Core Courses</big></b>:  Cloud Computing, Data Mining, Adversarial Attack and Robustness, Advanced Computer Architecture, Hardware For Machine Learning."
@@ -44,17 +51,23 @@
   contents:
     - title: Vision Algorithm Research Engineer 
       institution: Kuaishou Technology
-      year: 2023.6 - Present
+      year: 2024.6 - Present
       description:
-        - Designed and developed vision-language multimodal models with 0.6B parameters.
-        - Implemented SOTA algorithms to generate descriptions for un-classified magic effects with Pytorch.
-        - Leveraged pre-trained models and fine-tuning techniques to reduce human-labeled data usage by 60%
+        - Analyzed large-scale EEG neuro data and developed models to decode human memories.
+        - ·	Developed diagnosis pipeline that can process and analyze large-scale medical data to estimate the cause of epilepsy. Paper submitted to Science Advances.
+    - title: Vision Algorithm Research Engineer 
+      institution: Kuaishou Technology
+      year: 2023.6 - 2023.9
+      description:
+        - Designed and developed vision-language models to generate descriptions for un-classified videos.
 
     - title: Student Researcher
       institution: UCLA Prof. Bolei Zhou's Group
       year: 2022.3 - Present
       description:
-        - ·	Developed an improved Human-in-the-loop Reinforcement Learning (RL) method. The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods. Using PyTorch. Paper accepted to <b><u>NeurIPS 2023 Spotlight</u></b>.
+        - Proposed a benchmark for embodied scene understanding of vision-language models. Provided a 2.7 M dataset related to spatial, visual, dynamic, and safety-critical scene understandings. Paper submitted to CVPR 2025.
+        - Built a compositional simulation platform called MetaUrban for embodied AI research in urban spaces, such as autonomous vehicles. Paper submitted to ICLR 2024.
+        - Developed an improved Human-in-the-loop Reinforcement Learning (RL) method. The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods. Using PyTorch. Paper accepted to <b><u>NeurIPS 2023 Spotlight</u></b>.
         - Built and tested a platform for large-scale traffic scenario modeling and simulation for RL, IL, and autonomous driving. Paper accepted to <a href="https://arxiv.org/abs/2306.12241">NeurIPS 2023</a>.
         - Implemented a more photorealistic simulation environment for training RL autopilot agents using UE4.
 
@@ -62,16 +75,13 @@
       institution: UCLA Structure-Computer Interaction Lab
       year: 2020.6 - 2022.6
       description:
-        - Built a 2D LiDAR robotic navigation algorithm for a road identification system and improved the navigation accuracy by 30% (compared with multi-Ransac) for the robot while maintaining a low cost.
-        - Deployed road identification system on low-cost autonomous weed-control robot, using C++ and ROS.
-        - Created an inverse learning approach to generate the physical parameters (such as diameter) for the soft robot and increase the efficiency of collecting the parameters by 90%, using TensorFlow.
+        - Built a 2D LiDAR robotic navigation algorithm for a road identification system, deployed road identification system on low-cost autonomous weed-control robot, using C++ and ROS.
 
     - title: Student Researcher
       institution: UCLA Center for Neurobehavioral Genetics
       year: 2020.6 - 2022.6
       description: 
-        - Processed RNA sequence data and performed PCA, data visualization and other data analysis on it, using Python and R.
-        - Proved that Low-coverage RNA sequencing is an effective approach in Expression quantitative trait loci studies and can save the cost by more than 50%. Learn more details via the paper <a href="https://www.sciencedirect.com/science/article/pii/S2666247722000197?via%3Dihub">Powerful eQTL mapping through low-coverage RNA sequencing</a>.
+        - Processed and analyzed complex RNA sequence data. Executed comprehensive data analysis to elucidate patterns and insights from the RNA sequences. Two papers published.
 
 - title: Projects
   type: time_table
