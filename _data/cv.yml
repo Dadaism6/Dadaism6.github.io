@@ -49,8 +49,8 @@
 - title: Work / Research Experience
   type: time_table
   contents:
-    - title: Vision Algorithm Research Engineer 
-      institution: Kuaishou Technology
+    - title: Ph.D Student Researcher
+      institution: UCLA Prof. Vwani Roychowdhury's Group
       year: 2024.6 - Present
       description:
         - Analyzed large-scale EEG neuro data and developed models to decode human memories.
@@ -63,7 +63,7 @@
 
     - title: Student Researcher
       institution: UCLA Prof. Bolei Zhou's Group
-      year: 2022.3 - Present
+      year: 2022.3 - 2024.6
       description:
         - Proposed a benchmark for embodied scene understanding of vision-language models. Provided a 2.7 M dataset related to spatial, visual, dynamic, and safety-critical scene understandings. Paper submitted to CVPR 2025.
         - Built a compositional simulation platform called MetaUrban for embodied AI research in urban spaces, such as autonomous vehicles. Paper submitted to ICLR 2024.
