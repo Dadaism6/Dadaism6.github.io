@@ -271,6 +271,3 @@ DEPENDENCIES
   mini_racer
   unicode_utils
   webrick
-
-BUNDLED WITH
-   2.6.3
