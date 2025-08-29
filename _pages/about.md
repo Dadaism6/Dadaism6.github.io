@@ -16,17 +16,17 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<!-- 🔍 **Actively Seeking Opportunities**:
-- **2025 Summer Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
+🔍 **Actively Seeking Opportunities**:
+- **2026 Summer Internship / 2025 Fall Part-time Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
 
-If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations. -->
+If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
 
 <h2 style="margin-top: 50px;">About me</h2>
 Hello there! I'm Chenda Duan, `a first-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, conducting my master's research under the guidance of Prof. [Bolei Zhou](https://boleizhou.github.io/). During my bachelor's studies, I had the opportunity to work with Prof. [M. Khalid Jawed](https://structures.computer/) and Dr. [Roel Ophoff]. I am a 10-year UCLA Bruin!
 
-My current research lies at the intersection of `AI` and `Medical Neuroscience`. I am particularly focused on applying machine learning techniques to address medical conditions such as epilepsy and Alzheimer's disease, aiming to develop innovative solutions for diagnosis and treatment.
+My current research lies on inference-time augmentations for `LLM/VLMs`. I am buidling next-gen RAG system together with agentic designing to facilliate better long-context understanding for the LLMs/VLMs. And I am also exploring inference-time attention grounding method for focused reasoning capabilities.
 
-Additionally, I am working on `vision-language/multi-modal models`, with a specific focus on achieving performance comparable to SOTA models like GPT-4 and Gemini for long-horizon video understanding, using regular-sized VLMs and LLMs.
+I am also working at the intersection of `AI` and `Medical Neuroscience`. I am particularly focused on applying machine learning techniques on brain signals to decode human memories and to detect and cure diseaes.
 
 My previous research experience includes work in `autonomous driving, reinforcement learning, and robotic`.
 
@@ -67,8 +67,8 @@ My previous research experience includes work in `autonomous driving, reinforcem
 The field of computer science is vast and ever-evolving. Within this expansive domain, it is hard to constrain yourself into a specific area of interest. I am a firm believer in the power of interdisciplinary research and the importance of a broad skillset. I am passionate about the intersection of machine learning, medical science/neurosicence, computer vision, LLMs, and robotics.
 
 **Research Interests**:
+- LLM, VLM
 - AI for Science
-- LLM, VLM, LMM
 - Reinforcement Learning
 - Robotics
 
