@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 🔍 **Actively Seeking Opportunities**:
-- **2026 Summer Internship / 2025 Fall Part-time Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
+- **2026 Summer Internship / 2026 Winter and Spring Part-time Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
 
 If you believe there's a potential fit, please feel free to [email me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
 
