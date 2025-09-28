@@ -3,7 +3,7 @@ layout: page
 title: Research&Work
 permalink: /work/
 description: What I have done!
-nav: true
+nav: false
 nav_order: 3
 display_categories: [research]
 horizontal: false

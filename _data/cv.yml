@@ -12,14 +12,12 @@
 - title: Technical Skills
   type: map
   contents:
-    - name: Languages
-      value: Python, C++, Java, Shell, MATLAB
-    - name : Front End
-      value : JavaScript, HTML/CSS, React
-    - name : Database & Deployment
-      value : MySQL, GCP, Docker
-    - name: Others
-      value: Robotics, CV, ML, NLP, Andriod, Unreal Engine
+    - name: AI & Machine Learning
+      value: Representation learning, Vision-Language Models (VLMs), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Reinforcement Learning
+    - name : Frameworks & Systems
+      value : PyTorch, TensorFlow, CUDA, Docker, Linux
+    - name : Programming
+      value : Python, C++, R, Java, SQL.
 - title: Education
   type: time_table
   contents:
@@ -27,8 +25,8 @@
       institution: University of California - Los Angeles, Los Angeles, CA, USA
       year: 2024.9 - 2029.6
       description:
-        - "<b><big>Research</big></b>: AI for Science, Vision-language Model, Data Analysis, and general Machine Learning"
-        - "<b><big>Teaching</big></b>: Associate Teaching Instructor: Probability and Statistics, Large Scale Data Mining"
+        - "<b><big>Research</big></b>: LLM/VLMs, AI for Science, Data Analysis, and general Machine Learning."
+        - "<b><big>Teaching</big></b>: Associate Teaching Instructor: Data Mining, Probability and Statistics, Complex Networks"
     - title: Master of Science, Computer Science
       institution: University of California - Los Angeles, Los Angeles, CA, USA
       year: 2022.9 - 2024.6
@@ -53,14 +51,14 @@
       institution: UCLA Prof. Vwani Roychowdhury's Group
       year: 2024.6 - Present
       description:
-        - Designed memory-augmented LLM framework for doing RAG and long-context QA.
-        - Analyzed large-scale temporal neuro data and developed models to decode human memories.
-        - Developed diagnosis pipeline that can process and analyze large-scale medical data to estimate the cause of epilepsy.
-    - title: Vision Algorithm Research Engineer 
-      institution: Kuaishou Technology
+        - Developing an agentic retrieval-augmented generation (RAG) framework for long-context narrative understanding and open-domain QA tasks.   
+        - Analyzed large-scale brain neuro data and developed models to decode human memories..
+        - Developed diagnosis pipeline that can process and analyze large-scale neuro-medical data. Built large-scale, comprehensive dataset and benchmarks.
+    - title: Research Intern 
+      institution: Kuaishou Technology, Kling Team
       year: 2023.6 - 2023.9
       description:
-        - Designed and developed vision-language models to generate descriptions for un-classified videos.
+        - Developed vision-language models for video understanding.
 
     - title: Student Researcher
       institution: UCLA Prof. Bolei Zhou's Group
