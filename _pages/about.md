@@ -69,8 +69,8 @@ The field of computer science is vast and ever-evolving. Within this expansive d
 **Research Interests**:
 - LLM, VLM
 - AI for Science
+- Autonomous Systems and Robotics
 - Reinforcement Learning
-- Robotics
 
 
 At UCLA, I've been fortunate to collaborate with three prominent research teams:
