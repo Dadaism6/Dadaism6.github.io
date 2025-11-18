@@ -24,9 +24,9 @@ If you believe there's a potential fit, please feel free to [email me](mailto:ch
 <h2 style="margin-top: 50px;">About me</h2>
 Hello there! I'm Chenda Duan, `a second-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, conducting my master's research under the guidance of Prof. [Bolei Zhou](https://boleizhou.github.io/). During my bachelor's studies, I had the opportunity to work with Prof. [M. Khalid Jawed](https://structures.computer/) and Dr. [Roel Ophoff](https://bri.ucla.edu/people/roel-ophoff/). I am a 10-year UCLA Bruin!
 
-My current research lies on inference-time augmentations for `LLM/VLMs`. I am buidling next-gen RAG system together with agentic designing to facilliate better long-context understanding for the LLMs/VLMs. And I am also exploring inference-time attention grounding method for focused reasoning capabilities.
+My current research lies in inference-time augmentations for `LLM/VLMs`. I am building next-gen RAG system together with agentic designing to facilitate better long-context understanding for the LLMs/VLMs. And I am also exploring inference-time attention grounding methods for focused reasoning capabilities.
 
-I am also working at the intersection of `AI` and `Medical Neuroscience`. I am particularly focused on applying machine learning techniques on brain signals to decode human memories and to detect and cure diseaes.
+I am also working at the intersection of `AI` and `Medical Neuroscience`. I am particularly focused on applying machine learning techniques to brain signals to decode human memories and to detect and cure diseases.
 
 My previous research experience includes work in `autonomous driving, reinforcement learning, and robotic`.
 
