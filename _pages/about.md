@@ -16,10 +16,10 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-🔍 **Actively Seeking Opportunities**:
+<!-- 🔍 **Actively Seeking Opportunities**:
 - **2026 Summer Internship / 2026 Winter and Spring Part-time Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
 
-If you believe there's a potential fit, please feel free to [email me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
+If you believe there's a potential fit, please feel free to [email me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations. -->
 
 <h2 style="margin-top: 50px;">About me</h2>
 Hello there! I'm Chenda Duan, `a second-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, conducting my master's research under the guidance of Prof. [Bolei Zhou](https://boleizhou.github.io/). During my bachelor's studies, I had the opportunity to work with Prof. [M. Khalid Jawed](https://structures.computer/) and Dr. [Roel Ophoff](https://bri.ucla.edu/people/roel-ophoff/). I am a 10-year UCLA Bruin!
