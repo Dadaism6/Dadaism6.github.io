@@ -6,7 +6,7 @@ subtitle: UCLA Ph.D Computer Engineering | MS. Computer Science 24' | BS. Comput
 nav_order: 1
 profile:
   align: right
-  image: chenda_newpic.jpg
+  image: chenda_newpic.png
   image_circular: True # crops the image to make it circular
   address: >
     <p>Los Angeles, CA</p>
