@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: UCLA Ph.D Computer Engineering | MS. Computer Science 24' | BS. Computer Science 22'
+subtitle: ECE PhD @ UCLA | Research Intern @ Alibaba Accio | MS. CS 24' | BS. CS 22'
 nav_order: 1
 profile:
   align: right
@@ -22,9 +22,11 @@ social: true  # includes social icons at the bottom of the page
 If you believe there's a potential fit, please feel free to [email me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations. -->
 
 <h2 style="margin-top: 50px;">About me</h2>
-Hello there! I'm Chenda Duan, `a second-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, conducting my master's research under the guidance of Prof. [Bolei Zhou](https://boleizhou.github.io/). During my bachelor's studies, I had the opportunity to work with Prof. [M. Khalid Jawed](https://structures.computer/) and Dr. [Roel Ophoff](https://bri.ucla.edu/people/roel-ophoff/). I am a 10-year UCLA Bruin!
+Hello there! I'm Chenda Duan, `a second-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I am currently also an intern at `Alibaba Accio`, where I do Agentic Post-Training.
 
-My current research lies in inference-time augmentations for `LLM/VLMs`. I am building next-gen RAG system together with agentic designing to facilitate better long-context understanding for the LLMs/VLMs. And I am also exploring inference-time attention grounding methods for focused reasoning capabilities.
+I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, conducting my master's research under the guidance of Prof. [Bolei Zhou](https://boleizhou.github.io/). During my bachelor's studies, I had the opportunity to work with Prof. [M. Khalid Jawed](https://structures.computer/) and Dr. [Roel Ophoff](https://bri.ucla.edu/people/roel-ophoff/). I am a 10-year UCLA Bruin!
+
+My current research lies in inference-time augmentations for `LLM/VLMs` and `Post-training` for LLMs. I am building next-gen RAG system together with agentic designing to facilitate better long-context understanding for the LLMs/VLMs. And I am also exploring inference-time attention grounding methods for focused reasoning capabilities.
 
 I am also working at the intersection of `AI` and `Medical Neuroscience`. I am particularly focused on applying machine learning techniques to brain signals to decode human memories and to detect and cure diseases.
 
