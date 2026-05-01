@@ -4,11 +4,11 @@
     - name: Full Name
       value: Chenda Duan
     - name : Email
-      value : chenda@ucla.edu 
+      value : dcdduan@gmail.com
     - name : Mobile
       value : 310-254-5864
     - name: Location
-      value: Los Angeles, CA 90024
+      value: Los Angeles, CA 90025
 - title: Technical Skills
   type: map
   contents:
@@ -23,7 +23,7 @@
   contents:
     - title: Ph.D Student, Electrical and Computer Engineering
       institution: University of California - Los Angeles, Los Angeles, CA, USA
-      year: 2024.9 - 2029.6
+      year: 2024.9 - Expected 2028.6
       description:
         - "<b><big>Research</big></b>: LLM/VLMs, AI for Science, Data Analysis, and general Machine Learning."
         - "<b><big>Teaching</big></b>: Associate Teaching Instructor: Data Mining, Probability and Statistics, Complex Networks"
@@ -47,40 +47,35 @@
 - title: Work / Research Experience
   type: time_table
   contents:
-    - title: Ph.D Student Researcher
+    - title: Research Intern
+      institution: Alibaba, Accio Team
+      year: 2026.3 - Present
+      description:
+        - Develop post-training methods for LLMs deployed in Accio Work.
+
+    - title: Ph.D. Student, Graduate Researcher
       institution: UCLA Prof. Vwani Roychowdhury's Group
       year: 2024.6 - Present
       description:
-        - Developing an agentic retrieval-augmented generation (RAG) framework for long-context narrative understanding and open-domain QA tasks.   
-        - Analyzed large-scale brain neuro data and developed models to decode human memories..
-        - Developed diagnosis pipeline that can process and analyze large-scale neuro-medical data. Built large-scale, comprehensive dataset and benchmarks.
-    - title: Research Intern 
+        - Developing an agentic video understanding framework for long-context video understanding and open-domain QA tasks.
+        - "Designed a RAG framework for multi-hop QA tasks. Two papers: AAAI 2026 Oral and ICML 2026 under review."
+        - Developed a diagnosis pipeline that can process and analyze large-scale neuro-medical (iEEG) data. Built a large-scale, comprehensive dataset and benchmarks. ICLR 2026.
+        - Analyzed large-scale brain neuro data and developed models to decode human memories. Paper submitted to Nature and in revision after reviews.
+
+    - title: Research Intern
       institution: Kuaishou Technology, Kling Team
       year: 2023.6 - 2023.9
       description:
         - Developed vision-language models for video understanding.
 
-    - title: Student Researcher
+    - title: Graduate Researcher
       institution: UCLA Prof. Bolei Zhou's Group
-      year: 2022.3 - 2024.6
+      year: 2022.3 - 2024.9
       description:
-        - Proposed a benchmark for embodied scene understanding of vision-language models. Provided a 2.7 M dataset related to spatial, visual, dynamic, and safety-critical scene understandings. Paper accepted by CVPR 2025.
-        - Built a compositional simulation platform called MetaUrban for embodied AI research in urban spaces, such as autonomous vehicles. Paper accepted by ICLR 2025 as spotlight.
-        - Developed an improved Human-in-the-loop Reinforcement Learning (RL) method. The trained agent can master driving tasks in less than 30 minutes on a home PC, saving more than 90% of the training time compared to traditional RL methods. Using PyTorch. Paper accepted to <b><u>NeurIPS 2023 Spotlight</u></b>.
-        - Built and tested a platform for large-scale traffic scenario modeling and simulation for RL, IL, and autonomous driving. Paper accepted to <a href="https://arxiv.org/abs/2306.12241">NeurIPS 2023</a>.
-        - Implemented a more photorealistic simulation environment for training RL autopilot agents using UE4.
-
-    - title: Student Researcher
-      institution: UCLA Structure-Computer Interaction Lab
-      year: 2020.6 - 2022.6
-      description:
-        - Built a 2D LiDAR robotic navigation algorithm for a road identification system, deployed road identification system on low-cost autonomous weed-control robot, using C++ and ROS.
-
-    - title: Student Researcher
-      institution: UCLA Center for Neurobehavioral Genetics
-      year: 2020.6 - 2022.6
-      description: 
-        - Processed and analyzed complex RNA sequence data. Executed comprehensive data analysis to elucidate patterns and insights from the RNA sequences. Two papers published.
+        - Proposed a novel method and released a benchmark for embodied scene understanding in VLMs. Provided a large-scale dataset on spatial, temporal, and safety-critical scene understanding. CVPR 2025.
+        - Built MetaUrban, a compositional evaluation platform for embodied AI in urban spaces, enabling autonomous driving research at scale. ICLR 2025 Spotlight.
+        - Developed an improved Human-in-the-loop Reinforcement Learning method. The trained agent can master driving tasks in less than 30 minutes. NeurIPS 2023 Spotlight.
+        - Built and tested a platform for large-scale traffic scenario modeling and simulation for RL, IL, and autonomous driving. NeurIPS 2023.
 
 - title: Projects
   type: time_table
