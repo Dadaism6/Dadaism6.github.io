@@ -26,11 +26,13 @@ Hello there! I'm Chenda Duan, `a second-year Ph.D. student in Computer Engineeri
 
 I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, conducting my master's research under the guidance of Prof. [Bolei Zhou](https://boleizhou.github.io/). During my bachelor's studies, I had the opportunity to work with Prof. [M. Khalid Jawed](https://structures.computer/) and Dr. [Roel Ophoff](https://bri.ucla.edu/people/roel-ophoff/). I am a 10-year UCLA Bruin!
 
-My current research lies in inference-time augmentations for `LLM/VLMs` and `Post-training` for LLMs. I am building next-gen RAG system together with agentic designing to facilitate better long-context understanding for the LLMs/VLMs. And I am also exploring inference-time attention grounding methods for focused reasoning capabilities.
+My current research lies in inference-time augmentation for `LLMs/VLMs` and `post-training` for LLMs. I am building next-generation RAG and structured memory systems with agentic design to enable better long-context understanding, multimodal reasoning, and agentic video understanding. More recently, I have been working on memory structures for agents, with the goal of helping LLMs/VLMs organize, retrieve, and reason over long-horizon context more effectively.
 
-I am also working at the intersection of `AI` and `Medical Neuroscience`. I am particularly focused on applying machine learning techniques to brain signals to decode human memories and to detect and cure diseases.
+At Alibaba Accio, I am a core owner of the training effort for `Accio’s next-generation agentic model`, focusing on agentic post-training, RL pipelines, interactive agent-environment infrastructure, and scalable training systems.
 
-My previous research experience includes work in `autonomous driving, reinforcement learning, and robotic`.
+A second line of my research focuses on `AI for Neuroscience`, where I develop machine learning systems for decoding human memory and cognition from neural activity. More broadly, I aim to bridge neuroscience and artificial intelligence in both directions: using AI to uncover the neural basis of memory and cognition, and drawing inspiration from the brain to design more adaptive architectures and learning algorithms.
+
+My previous research experience spans `autonomous driving`, `reinforcement learning`, `robotics`, and `biomedical AI`.
 
 
 <div class="news">
