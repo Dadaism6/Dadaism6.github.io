@@ -2,6 +2,8 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+lang: en
+lang_ref: teaching
 description: I love the feeling of spreading knowledge!
 nav: true
 nav_order: 6

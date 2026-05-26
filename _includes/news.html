@@ -1,6 +1,7 @@
           
+          {%- assign current_lang = page.lang | default: site.lang | default: "en" -%}
           <div class="news">
-            <h2>news</h2>
+            <h2>{% if current_lang == "zh" %}动态{% else %}news{% endif %}</h2>
             {% if site.news != blank -%} 
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
@@ -26,6 +27,6 @@
               </table>
             </div>
           {%- else -%} 
-            <p>No news so far...</p>
+            <p>{% if current_lang == "zh" %}目前还没有动态。{% else %}No news so far...{% endif %}</p>
           {%- endif %} 
           </div>

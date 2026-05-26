@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Basketball-shooting
+title_zh: 篮球投篮游戏
 description: An online basketball-shooting game	build from scrath, with advanced graphic features!
+description_zh: 从零实现的在线篮球投篮游戏，包含图形学高级效果
 img: assets/img/basketball.jpg
 importance: 2
 category: project

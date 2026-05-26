@@ -1,7 +1,9 @@
 ---
 layout: page
 title: UCLA Structure-Computer Interaction Lab                
+title_zh: UCLA Structure-Computer Interaction Lab
 description: Undergraduate Researcher
+description_zh: 本科研究员
 img: assets/img/robot.jpg
 importance: 2
 category: research

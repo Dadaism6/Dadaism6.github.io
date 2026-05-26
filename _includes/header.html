@@ -1,11 +1,33 @@
 
     <header>
+      {%- assign current_lang = page.lang | default: site.lang | default: "en" -%}
+      {%- if current_lang == "zh" -%}
+        {%- assign home_url = "/zh/" -%}
+        {%- assign about_title = "关于" -%}
+        {%- assign target_lang = "en" -%}
+        {%- assign target_label = "EN" -%}
+        {%- assign lang_toggle_url = "/" -%}
+      {%- else -%}
+        {%- assign home_url = "/" -%}
+        {%- assign about_title = "About" -%}
+        {%- assign target_lang = "zh" -%}
+        {%- assign target_label = "中文" -%}
+        {%- assign lang_toggle_url = "/zh/" -%}
+      {%- endif -%}
+      {%- if page.lang_ref -%}
+        {%- for p in site.pages -%}
+          {%- assign p_lang = p.lang | default: site.lang | default: "en" -%}
+          {%- if p.lang_ref == page.lang_ref and p_lang == target_lang -%}
+            {%- assign lang_toggle_url = p.url -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
 
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
-          {% if page.permalink != '/' -%}
-          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          {% if page.permalink != home_url -%}
+          <a class="navbar-brand title font-weight-lighter" href="{{ home_url | relative_url }}">
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
@@ -37,21 +59,15 @@
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
 
-              {%- for page in site.pages -%}
-                {% if page.permalink == '/' %}
-                  {% assign about_title = page.title %}
-                {% endif %}
-              {% endfor %}
-
               <!-- About -->
-              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
-                  {%- if page.permalink == '/' -%}
+              <li class="nav-item {% if page.lang_ref == 'about' or page.permalink == home_url %}active{% endif %}">
+                <a class="nav-link" href="{{ home_url | relative_url }}">{{ about_title }}
+                  {%- if page.lang_ref == 'about' or page.permalink == home_url -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_nav_title %}
+              {% if site.blog_nav_title and current_lang != "zh" %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
@@ -65,9 +81,10 @@
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
-              {%- if p.nav and p.autogen == nil -%}
+              {%- assign p_lang = p.lang | default: site.lang | default: "en" -%}
+              {%- if p.nav and p.autogen == nil and p_lang == current_lang -%}
               {%- if p.dropdown %}
-              <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
+              <li class="nav-item dropdown {% if page.lang_ref == p.lang_ref or page.title == p.title %}active{% endif %}">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
                   {%- if page.title == p.title -%}
                   <span class="sr-only">(current)</span>
@@ -84,9 +101,9 @@
                 </div>
               </li>
               {%- else %}
-              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+              <li class="nav-item {% if page.lang_ref == p.lang_ref or page.title == p.title %}active{% endif %}">
                 <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
-                  {%- if page.title == p.title -%}
+                  {%- if page.lang_ref == p.lang_ref or page.title == p.title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
@@ -94,6 +111,9 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              <li class="nav-item lang-switch">
+                <a class="nav-link" href="{{ lang_toggle_url | relative_url }}" hreflang="{{ target_lang }}">{{ target_label }}</a>
+              </li>
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

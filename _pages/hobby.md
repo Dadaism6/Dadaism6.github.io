@@ -2,6 +2,8 @@
 layout: page
 title: Hobby
 permalink: /hobby/
+lang: en
+lang_ref: hobby
 description: I am an ordinary man, I like everyhing you like!
 nav: true
 nav_order: 7

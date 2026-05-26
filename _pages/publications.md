@@ -2,6 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
+lang: en
+lang_ref: publications
 description: Reviewer for T-ITS, NIPS, AAAI, ICLR, CAIS
 years: [2026,2025,2024,2023,2022]
 nav: true

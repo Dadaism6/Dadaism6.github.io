@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Bruinspace-Overseer
+title_zh: Bruinspace Overseer
 description: A club, instead of a project.
+description_zh: 更像是一段社团和工程经历
 img: assets/img/bloon.jpg
 importance: 5
 category: project

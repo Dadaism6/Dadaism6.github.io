@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Proxy Value Propagation
+title_zh: Proxy Value Propagation
 description: A safe and super-efficient human-in-the-loop reinforcement learning method!
+description_zh: 安全且高效的人在环强化学习方法
 img: assets/img/realrendering.png
 importance: 1
 category: research

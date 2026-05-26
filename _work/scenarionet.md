@@ -1,7 +1,9 @@
 ---
 layout: page
 title: ScenarioNet
+title_zh: ScenarioNet
 description: Open-source platform for large-scale traffic scenario modeling and simulation
+description_zh: 面向大规模交通场景建模与仿真的开源平台
 img: assets/img/snet.jpg
 importance: 1
 category: research

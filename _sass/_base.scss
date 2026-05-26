@@ -36,6 +36,81 @@ figure, img {
   max-width: 90vw;
 }
 
+.abstract-block {
+  margin-top: 1rem;
+}
+
+.abstract-paragraph {
+  padding: 0.9rem 0;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  & + .abstract-paragraph {
+    border-top: 1px solid var(--global-divider-color);
+  }
+}
+
+.research-blocks {
+  border-top: 1px solid var(--global-divider-color);
+  counter-reset: research-thread;
+  margin-top: 0.2rem;
+  padding: 1.2rem 0 0.4rem;
+}
+
+.research-label {
+  color: var(--global-theme-color);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.2rem;
+  text-transform: uppercase;
+}
+
+.research-block {
+  border-top: 1px solid var(--global-divider-color);
+  counter-increment: research-thread;
+  display: grid;
+  gap: 1.2rem;
+  grid-template-columns: minmax(10rem, 0.34fr) minmax(0, 1fr);
+  padding: 1rem 0;
+
+  h3 {
+    color: var(--global-text-color);
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.35;
+    margin-bottom: 0;
+  }
+
+  h3::before {
+    color: var(--global-theme-color);
+    content: counter(research-thread, decimal-leading-zero);
+    display: block;
+    font-family: monospace;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.25rem;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.research-blocks + .abstract-paragraph {
+  border-top: 1px solid var(--global-divider-color);
+}
+
+@media (max-width: 767px) {
+  .research-block {
+    grid-template-columns: 1fr;
+    gap: 0.45rem;
+  }
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);
@@ -82,6 +157,13 @@ blockquote {
       align-items: center;
     }
   }
+}
+
+.card-link-label {
+  color: var(--global-theme-color);
+  font-size: 0.82rem;
+  font-weight: 600;
+  margin-bottom: 0;
 }
 
 // Citation
@@ -196,6 +278,16 @@ blockquote {
       }
     }
   }
+}
+
+.navbar .lang-switch .nav-link {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 999px;
+  font-size: 0.8rem;
+  line-height: 1;
+  margin-left: 0.35rem;
+  margin-top: 0.45rem;
+  padding: 0.35rem 0.55rem;
 }
 
 .navbar-toggler {

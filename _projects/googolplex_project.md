@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Googolplex
+title_zh: Googolplex
 description: Online text generation server
+description_zh: 在线文本生成服务器
 img: assets/img/googolplex.png
 importance: 1
 category: project

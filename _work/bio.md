@@ -1,7 +1,9 @@
 ---
 layout: page
 title: UCLA Center for Neurobehavioral Genetics
+title_zh: UCLA Center for Neurobehavioral Genetics
 description: Undergraduate Researcher
+description_zh: 本科研究员
 img: assets/img/bioinformatics.jpeg
 importance: 2
 category: research

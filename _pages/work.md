@@ -2,6 +2,8 @@
 layout: page
 title: Research&Work
 permalink: /work/
+lang: en
+lang_ref: work
 description: What I have done!
 nav: false
 nav_order: 3

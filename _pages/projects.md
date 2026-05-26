@@ -2,6 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
+lang: en
+lang_ref: projects
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 4

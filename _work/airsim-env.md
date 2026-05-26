@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Realistic RL training Environment
+title_zh: 真实感强化学习训练环境
 description: Student Researcher
+description_zh: 学生研究员
 img: assets/img/airsim.png
 importance: 3
 category: research

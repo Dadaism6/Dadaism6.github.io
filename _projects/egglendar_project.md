@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Egglendar
+title_zh: Egglendar 学生日历
 description: Online Student Calendar
+description_zh: 在线学生日历应用
 importance: 2
 category: project
 ---

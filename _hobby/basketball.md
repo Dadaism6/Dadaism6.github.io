@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Basketball
+title_zh: 篮球
 description: I can dunk!
+description_zh: 我可以扣篮！
 img: assets/img/dunk.png
 importance: 3
 category: hobby
@@ -15,4 +17,3 @@ I lack the sport ability when I was a child, especially, I seem to be "discordan
 When comes to junior middle school, our sports teacher always taught us martial art each and every time, and I did not have much time to play basketball.
 
 In the high school, I picked up basketball again. I was not good at dribbling, but I did mastered in "Pivot". I played as the center, but sometimes I also played as small forward.
-
