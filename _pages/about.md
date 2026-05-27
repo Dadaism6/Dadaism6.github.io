@@ -37,13 +37,13 @@ I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, co
   <p class="research-label">Research directions</p>
 
   <div class="research-block" markdown="1">
-  <h3>LLM/VLM memory and reasoning</h3>
-  My current research lies in inference-time augmentation for `LLMs/VLMs` and `post-training` for LLMs. I am building next-generation RAG and structured memory systems with agentic design to enable better long-context understanding, multimodal reasoning, and agentic video understanding. More recently, I have been working on memory structures for agents, with the goal of helping LLMs/VLMs organize, retrieve, and reason over long-horizon context more effectively.
+  <h3>Agentic post-training</h3>
+  At Alibaba Accio, I am a **core owner of** the training effort for `Accio’s next-generation agentic model`, focusing on agentic post-training, RL pipelines, interactive agent-environment infrastructure, and scalable training systems.
   </div>
 
   <div class="research-block" markdown="1">
-  <h3>Agentic post-training</h3>
-  At Alibaba Accio, I am a **core owner of** the training effort for `Accio’s next-generation agentic model`, focusing on agentic post-training, RL pipelines, interactive agent-environment infrastructure, and scalable training systems.
+  <h3>LLM/VLM memory and reasoning</h3>
+  My current research lies in inference-time augmentation for `LLMs/VLMs` and `post-training` for LLMs. I am building next-generation RAG and structured memory systems with agentic design to enable better long-context understanding, multimodal reasoning, and agentic video understanding. More recently, I have been working on memory structures for agents, with the goal of helping LLMs/VLMs organize, retrieve, and reason over long-horizon context more effectively.
   </div>
 
   <div class="research-block" markdown="1">
