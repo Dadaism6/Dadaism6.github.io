@@ -71,16 +71,18 @@ My previous research experience spans `autonomous driving`, `reinforcement learn
     {% assign news_limit = news_size %}
     {% endif %}
     {% for item in news limit: news_limit %} 
-      <tr>
-        <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-        <td>
-          {% if item.inline -%} 
-            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-          {%- else -%} 
-            <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-          {%- endif %} 
-        </td>
-      </tr>
+      {% unless item.hidden %}
+        <tr>
+          <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+          <td>
+            {% if item.inline -%} 
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+            {%- else -%} 
+              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {%- endif %} 
+          </td>
+        </tr>
+      {% endunless %}
     {%- endfor %} 
     </table>
   </div>

@@ -1,10 +1,11 @@
 ---
 layout: about
 title: 关于
+display_name: 段辰达
 permalink: /zh/
 lang: zh
 lang_ref: about
-subtitle: UCLA ECE 博士 | Alibaba Accio | UCLA CS 硕士 24' | UCLA CS 本科 22'
+subtitle: UCLA ECE 博士 | 阿里巴巴 Accio | UCLA CS 硕士 24' | UCLA CS 本科 22'
 nav_order: 1
 profile:
   align: right
@@ -22,7 +23,7 @@ social: true
 <h2 style="margin-top: 50px;">关于我</h2>
 <div class="abstract-block" markdown="1">
 <div class="abstract-paragraph" markdown="1">
-你好！我是段辰达，UCLA Computer Engineering 二年级博士生，我的导师是 Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/)。我现在也在 `Alibaba Accio` 实习，主要负责大模型智能体后训练。
+你好！我是段辰达，UCLA Computer Engineering 二年级博士生，我的导师是 Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/)。我现在也在 `阿里巴巴 Accio` 实习，主要负责大模型智能体后训练。
 </div>
 
 <div class="abstract-paragraph" markdown="1">
@@ -34,7 +35,7 @@ social: true
 
   <div class="research-block" markdown="1">
   <h3>大模型的智能体后训练</h3>
-  在 Alibaba Accio，我是 `Accio 的下一代智能体大模型` 训练工作的**核心负责人之一**，主要负责`模型后训练、强化学习、智能体环境构建，以及可扩展训练系统`。
+  在阿里巴巴 Accio，我是 `Accio 的下一代智能体大模型` 训练工作的**核心负责人之一**，主要负责`模型后训练、强化学习、智能体环境构建，以及可扩展训练系统`。
   </div>
 
   <div class="research-block" markdown="1">
@@ -60,18 +61,18 @@ social: true
 计算机科学这个领域很广，也发展得极其快。我一直相信我们需要成为life-long learner, 也相信跨学科研究的价值。所以，我经常尝试接触和学习新的领域知识。
 
 **研究兴趣**:
-- LLM, VLM
-- Reinforcement Learning
-- AI for Science
-- Autonomous Systems and Robotics
+- 大语言模型与视觉语言模型（LLM / VLM）
+- 强化学习
+- AI for Science / 科学智能
+- 自主系统与机器人
 
 我很幸运和这些研究团队合作过：
 
 **研究团队**:
-- UCLA, Prof Vwani Roychowdhury's Group
-- Alibaba, Accio Team
+- UCLA Prof Vwani Roychowdhury 课题组
+- 阿里巴巴 Accio 团队
 - UCLA, VAIL Lab
-- Kuaishou Technology, Keling Team
+- 快手 可灵团队
 - UCLA, Center for Neurobehavioral Genetics
 - UCLA, Structures-Computer Interaction Lab
 

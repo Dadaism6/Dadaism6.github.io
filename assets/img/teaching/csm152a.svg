@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">UCLA CS M152A teaching poster</title>
+  <desc id="desc">Introductory Digital Design Laboratory</desc>
+  <rect width="1200" height="720" fill="#f8f3ef"/>
+  <rect x="62" y="58" width="1076" height="604" rx="8" fill="#fffaf2" stroke="#ead8c6" stroke-width="2"/>
+  <rect x="704" y="94" width="390" height="532" fill="#763f2e"/>
+  <g fill="none" stroke="#f0c85a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M770 212h94v74h-94z"/>
+    <path d="M770 432h94v74h-94z"/>
+    <path d="M982 322h78v74h-78z"/>
+    <path d="M864 249h70v110h48"/>
+    <path d="M864 469h70V359"/>
+    <path d="M760 249h-46M760 469h-46M1060 359h46"/>
+  </g>
+  <g fill="#fffaf2">
+    <circle cx="714" cy="249" r="13"/>
+    <circle cx="714" cy="469" r="13"/>
+    <circle cx="1106" cy="359" r="13"/>
+  </g>
+  <text x="90" y="128" fill="#bf5b3e" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700">UCLA TEACHING</text>
+  <text x="88" y="252" fill="#763f2e" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="100" font-weight="800">CS M152A</text>
+  <text x="94" y="336" fill="#763f2e" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="43" font-weight="700">Introductory Digital</text>
+  <text x="94" y="392" fill="#763f2e" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="43" font-weight="700">Design Laboratory</text>
+  <text x="94" y="532" fill="#776a62" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="31" font-weight="600">Associate Instructor</text>
+  <text x="94" y="582" fill="#776a62" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30">Fall 2023 | Winter 2024 | Spring 2024</text>
+</svg>

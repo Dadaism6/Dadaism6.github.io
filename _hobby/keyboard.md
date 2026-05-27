@@ -3,7 +3,7 @@ layout: page
 title: double keyboard electone
 title_zh: 双排键电子琴
 description: Listen it, play it.
-description_zh: 听它，也弹它
+description_zh: 听音乐，感受音乐。
 img: assets/img/keyboard.png
 importance: 3
 category: hobby

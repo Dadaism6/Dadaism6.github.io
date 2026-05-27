@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">UCLA ECE 219 teaching poster</title>
+  <desc id="desc">Large-Scale Data Mining: Models and Algorithms</desc>
+  <rect width="1200" height="720" fill="#f7f3ea"/>
+  <rect x="0" y="0" width="1200" height="720" fill="#1f3154"/>
+  <rect x="62" y="58" width="1076" height="604" rx="8" fill="#f8f4ea"/>
+  <path d="M746 76h374v568H746z" fill="#d95f43"/>
+  <path d="M808 156h226M808 218h278M808 280h180M808 342h242M808 404h304M808 466h206M808 528h260" stroke="#f8f4ea" stroke-width="18" stroke-linecap="round" opacity=".94"/>
+  <circle cx="915" cy="300" r="118" fill="none" stroke="#1f3154" stroke-width="12"/>
+  <path d="M845 312c42-78 108-96 198-54M812 400c76 28 160 24 244-12" fill="none" stroke="#1f3154" stroke-width="12" stroke-linecap="round"/>
+  <text x="90" y="128" fill="#d95f43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700">UCLA TEACHING</text>
+  <text x="88" y="252" fill="#1f3154" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="118" font-weight="800">ECE 219</text>
+  <text x="94" y="336" fill="#1f3154" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="45" font-weight="700">Large-Scale Data Mining</text>
+  <text x="94" y="393" fill="#1f3154" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="38" font-weight="500">Models and Algorithms</text>
+  <text x="94" y="532" fill="#5f6673" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="31" font-weight="600">Teaching Assistant</text>
+  <text x="94" y="582" fill="#5f6673" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30">Winter 2025 | Spring 2025 | Winter 2026</text>
+</svg>

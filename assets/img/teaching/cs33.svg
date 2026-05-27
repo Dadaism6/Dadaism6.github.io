@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">UCLA CS33 teaching poster</title>
+  <desc id="desc">Introduction to Computer Organization</desc>
+  <rect width="1200" height="720" fill="#f5f5f2"/>
+  <rect x="62" y="58" width="1076" height="604" rx="8" fill="#fbfaf4" stroke="#deded8" stroke-width="2"/>
+  <rect x="700" y="92" width="394" height="536" fill="#303948"/>
+  <rect x="806" y="202" width="182" height="182" rx="8" fill="#fbfaf4"/>
+  <rect x="845" y="241" width="104" height="104" rx="8" fill="#d9564a"/>
+  <g stroke="#f0c85a" stroke-width="11" stroke-linecap="round">
+    <path d="M806 232h-58M806 278h-58M806 324h-58M806 370h-58"/>
+    <path d="M988 232h58M988 278h58M988 324h58M988 370h58"/>
+    <path d="M836 202v-58M882 202v-58M928 202v-58M974 202v-58"/>
+    <path d="M836 384v58M882 384v58M928 384v58M974 384v58"/>
+  </g>
+  <path d="M768 506h256M768 546h188" stroke="#fbfaf4" stroke-width="16" stroke-linecap="round"/>
+  <text x="90" y="128" fill="#d9564a" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700">UCLA TEACHING</text>
+  <text x="88" y="252" fill="#303948" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="118" font-weight="800">CS 33</text>
+  <text x="94" y="336" fill="#303948" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700">Introduction to</text>
+  <text x="94" y="392" fill="#303948" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700">Computer Organization</text>
+  <text x="94" y="552" fill="#646973" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="31" font-weight="600">Teaching Assistant</text>
+  <text x="94" y="602" fill="#646973" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30">Spring 2023</text>
+</svg>

@@ -5,13 +5,13 @@
         <div class="leftcolumn">
           <div class="col-xs-7 col-sm-7 col-md-5 col-lg-4 col-xl-4 abbr">
             {% if entry.teaser %}
-            <img src="../assets/img/teaser/{{entry.teaser}}" class="teaser z-depth-1">
+            <img src="{{ entry.teaser | prepend: '/assets/img/teaser/' | relative_url }}" class="teaser z-depth-1">
             {% endif %}
 
             {% if entry.teaser_video %}
             <div class="videoplayer">
               <video autoplay="autoplay" muted loop="loop" playsinline class="z-depth-1">
-                <source src="../assets/img/teaser/{{entry.teaser_video}}" type="video/mp4"/>
+                <source src="{{ entry.teaser_video | prepend: '/assets/img/teaser/' | relative_url }}" type="video/mp4"/>
               </video>
             </div>
 

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">UCLA CS31 teaching poster</title>
+  <desc id="desc">Intro to Computer Science</desc>
+  <rect width="1200" height="720" fill="#eef5f8"/>
+  <rect x="62" y="58" width="1076" height="604" rx="8" fill="#fbfaf4" stroke="#d5e2e5" stroke-width="2"/>
+  <rect x="704" y="94" width="390" height="532" fill="#1f5f75"/>
+  <path d="M854 232l-84 112 84 112M944 232l84 112-84 112" fill="none" stroke="#f0c85a" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M910 220l-42 248" stroke="#fbfaf4" stroke-width="16" stroke-linecap="round"/>
+  <rect x="768" y="514" width="264" height="30" rx="8" fill="#fbfaf4"/>
+  <rect x="768" y="568" width="180" height="20" rx="8" fill="#fbfaf4" opacity=".75"/>
+  <text x="90" y="128" fill="#d7674c" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700">UCLA TEACHING</text>
+  <text x="88" y="252" fill="#1f5f75" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="118" font-weight="800">CS 31</text>
+  <text x="94" y="340" fill="#1f5f75" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="48" font-weight="700">Intro to</text>
+  <text x="94" y="399" fill="#1f5f75" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="48" font-weight="700">Computer Science</text>
+  <text x="94" y="552" fill="#627278" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="31" font-weight="600">Learning Assistant</text>
+  <text x="94" y="602" fill="#627278" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30">Spring 2022</text>
+</svg>

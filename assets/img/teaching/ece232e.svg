@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">UCLA ECE 232E teaching poster</title>
+  <desc id="desc">Large Scale Social and Complex Networks: Design and Algorithms</desc>
+  <rect width="1200" height="720" fill="#f4f7f1"/>
+  <rect x="62" y="58" width="1076" height="604" rx="8" fill="#fdfbf4" stroke="#d7ddce" stroke-width="2"/>
+  <path d="M690 96h382v532H690z" fill="#274c43"/>
+  <g stroke="#f0c85a" stroke-width="9" stroke-linecap="round">
+    <path d="M792 178l132 84 108-42"/>
+    <path d="M792 178l-46 154 178-70"/>
+    <path d="M746 332l134 122 152-234"/>
+    <path d="M880 454l146 34 6-268"/>
+    <path d="M746 332l286 156"/>
+  </g>
+  <g fill="#fdfbf4" stroke="#274c43" stroke-width="6">
+    <circle cx="792" cy="178" r="24"/>
+    <circle cx="924" cy="262" r="24"/>
+    <circle cx="1032" cy="220" r="24"/>
+    <circle cx="746" cy="332" r="24"/>
+    <circle cx="880" cy="454" r="24"/>
+    <circle cx="1032" cy="488" r="24"/>
+  </g>
+  <text x="90" y="128" fill="#b44a3c" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700">UCLA TEACHING</text>
+  <text x="88" y="252" fill="#274c43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="108" font-weight="800">ECE 232E</text>
+  <text x="94" y="334" fill="#274c43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="43" font-weight="700">Large Scale Social</text>
+  <text x="94" y="389" fill="#274c43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="43" font-weight="700">and Complex Networks</text>
+  <text x="94" y="446" fill="#274c43" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="500">Design and Algorithms</text>
+  <text x="94" y="552" fill="#687265" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="31" font-weight="600">Teaching Assistant</text>
+  <text x="94" y="602" fill="#687265" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30">Summer 2025</text>
+</svg>

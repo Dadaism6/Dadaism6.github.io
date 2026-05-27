@@ -4,7 +4,7 @@ title: 爱好
 permalink: /zh/hobby/
 lang: zh
 lang_ref: hobby
-description: 实验室之外，我也会反复回到的一些事情。
+description: 总是要休息的 总是要玩的
 nav: true
 nav_order: 7
 horizontal: false

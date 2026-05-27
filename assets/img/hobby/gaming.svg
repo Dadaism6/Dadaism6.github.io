@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Multiplayer games hobby poster</title>
+  <desc id="desc">A stylized game controller and chat bubbles for online games</desc>
+  <rect width="1200" height="720" fill="#f6f4ee"/>
+  <rect x="62" y="58" width="1076" height="604" rx="8" fill="#192339"/>
+  <path d="M286 354c18-92 80-146 164-126l92 22h116l92-22c84-20 146 34 164 126l30 152c12 62-52 104-104 64l-102-78H462l-102 78c-52 40-116-2-104-64z" fill="#f6f4ee"/>
+  <path d="M420 350h-52v-52h-42v52h-52v42h52v52h42v-52h52z" fill="#192339"/>
+  <circle cx="786" cy="330" r="28" fill="#d95f43"/>
+  <circle cx="852" cy="392" r="28" fill="#f0c85a"/>
+  <circle cx="724" cy="392" r="28" fill="#2f806f"/>
+  <path d="M562 330h76M562 382h76" stroke="#192339" stroke-width="20" stroke-linecap="round"/>
+  <rect x="278" y="120" width="220" height="76" rx="30" fill="#f0c85a"/>
+  <rect x="684" y="120" width="266" height="76" rx="30" fill="#d95f43"/>
+  <rect x="764" y="544" width="184" height="56" rx="28" fill="#2f806f"/>
+  <text x="304" y="169" fill="#192339" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="800">LOL</text>
+  <text x="728" y="169" fill="#f6f4ee" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="800">PUBG</text>
+  <text x="800" y="582" fill="#f6f4ee" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="800">VOICE</text>
+  <text x="92" y="118" fill="#f6f4ee" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700">PLAY</text>
+  <text x="92" y="606" fill="#f6f4ee" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="86" font-weight="800">GAMES</text>
+</svg>

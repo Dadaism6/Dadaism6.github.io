@@ -1,6 +1,7 @@
 {%- assign current_lang = page.lang | default: site.lang | default: "en" -%}
 {%- assign project_title = project.title -%}
 {%- assign project_description = project.description -%}
+{%- assign project_terms = project.terms -%}
 {%- assign details_label = "Details" -%}
 {%- if current_lang == "zh" -%}
   {%- assign details_label = "详情" -%}
@@ -9,6 +10,9 @@
   {%- endif -%}
   {%- if project.description_zh -%}
     {%- assign project_description = project.description_zh -%}
+  {%- endif -%}
+  {%- if project.terms_zh -%}
+    {%- assign project_terms = project.terms_zh -%}
   {%- endif -%}
 {%- endif -%}
 <div class="card-item col">
@@ -30,6 +34,9 @@
           <div class="card-body">
             <h3 class="card-title text-lowercase">{{ project_title }}</h3>
             <p class="card-text">{{ project_description }}</p>
+            {%- if project_terms -%}
+            <p class="card-meta">{{ project_terms }}</p>
+            {%- endif -%}
             <p class="card-link-label">{{ details_label }}</p>
             <div class="row ml-1 mr-1 p-0">
               {%- if project.github -%}

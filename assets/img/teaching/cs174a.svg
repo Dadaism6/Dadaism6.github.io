@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">UCLA CS174A teaching poster</title>
+  <desc id="desc">Intro to Computer Graphics</desc>
+  <rect width="1200" height="720" fill="#f4f1f7"/>
+  <rect x="62" y="58" width="1076" height="604" rx="8" fill="#fcfaf5" stroke="#e0d8e8" stroke-width="2"/>
+  <rect x="704" y="94" width="390" height="532" fill="#49345f"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M810 430l110-206 116 206z" stroke="#f0c85a" stroke-width="14"/>
+    <path d="M810 430h226l-74 78H884zM920 224l42 284" stroke="#fcfaf5" stroke-width="10" opacity=".95"/>
+    <path d="M884 508l-74-78M1036 430l-74 78" stroke="#fcfaf5" stroke-width="10" opacity=".95"/>
+    <path d="M792 198h286M792 548h286" stroke="#fcfaf5" stroke-width="12" opacity=".6"/>
+  </g>
+  <circle cx="920" cy="224" r="18" fill="#e86f4f"/>
+  <circle cx="810" cy="430" r="18" fill="#e86f4f"/>
+  <circle cx="1036" cy="430" r="18" fill="#e86f4f"/>
+  <text x="90" y="128" fill="#e86f4f" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700">UCLA TEACHING</text>
+  <text x="88" y="252" fill="#49345f" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="112" font-weight="800">CS 174A</text>
+  <text x="94" y="340" fill="#49345f" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700">Intro to</text>
+  <text x="94" y="398" fill="#49345f" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700">Computer Graphics</text>
+  <text x="94" y="552" fill="#6f6678" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="31" font-weight="600">Teaching Assistant</text>
+  <text x="94" y="602" fill="#6f6678" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30">Fall 2022 | Winter 2023</text>
+</svg>

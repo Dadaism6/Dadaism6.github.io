@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">UCLA ECE 131A teaching poster</title>
+  <desc id="desc">Probability and Statistics</desc>
+  <rect width="1200" height="720" fill="#f2f7f7"/>
+  <rect x="62" y="58" width="1076" height="604" rx="8" fill="#fbfaf4" stroke="#d8e3e0" stroke-width="2"/>
+  <rect x="710" y="90" width="380" height="540" fill="#116466"/>
+  <path d="M746 548c30-6 62-27 92-74 34-54 54-144 96-144s62 90 96 144c30 47 62 68 92 74" fill="none" stroke="#f6c453" stroke-width="18" stroke-linecap="round"/>
+  <path d="M756 552h342M934 552V214M790 496h44M814 443h44M850 390h44M974 390h44M1010 443h44M1034 496h44" stroke="#fbfaf4" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="934" cy="330" r="17" fill="#fbfaf4"/>
+  <circle cx="840" cy="474" r="13" fill="#e66f51"/>
+  <circle cx="1030" cy="474" r="13" fill="#e66f51"/>
+  <text x="90" y="128" fill="#e66f51" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700">UCLA TEACHING</text>
+  <text x="88" y="252" fill="#116466" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="108" font-weight="800">ECE 131A</text>
+  <text x="94" y="340" fill="#116466" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="48" font-weight="700">Probability</text>
+  <text x="94" y="399" fill="#116466" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="48" font-weight="700">and Statistics</text>
+  <text x="94" y="552" fill="#637071" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="31" font-weight="600">Teaching Assistant</text>
+  <text x="94" y="602" fill="#637071" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30">Fall 2024</text>
+</svg>

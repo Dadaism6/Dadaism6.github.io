@@ -4,13 +4,13 @@ title: 教学
 permalink: /zh/teaching/
 lang: zh
 lang_ref: teaching
-description: 我参与过的课程、讨论课和教学材料。
+description: 我教过的课
 nav: true
 nav_order: 6
 horizontal: false
 ---
 
-<h6>中文里有个词叫“好为人师”。我爸爸以前总说自己其实应该去当老师，有时候我也有同感。</h6>
+<h6>有个词叫“好为人师”。我爸经常说他自己当年应该去当个老师，有时候我也有同感，教课真的很好玩，也很有成就感。</h6>
 
 <div class="projects">
   {%- assign sorted_teaching = site.teaching | sort: "importance" -%}
