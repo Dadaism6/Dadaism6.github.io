@@ -102,13 +102,15 @@ The field of computer science is vast and ever-evolving. Within this expansive d
 - Reinforcement Learning
 
 
-At UCLA, I've been fortunate to collaborate with three prominent research teams:
+I've been fortunate to collaborate with these research teams:
 
 **Research Groups**:
-- UCLA Prof Vwani Roychowdhury's Group
-- UCLA Prof Bolei Zhou'S Group
+- [UCLA Prof Vwani Roychowdhury's Group](https://www.vwaniroychowdhury.com/)
+- [Alibaba Accio Team](https://www.accio.com/work)
+- [UCLA VAIL Lab](https://vail-ucla.github.io/)
+- [Kuaishou Keling Team](https://kling.ai/)
 - UCLA's Center for Neurobehavioral Genetics.
-- UCLA Structures-Computer Interaction Lab.
+- [UCLA Structures-Computer Interaction Lab](https://structures.computer/).
 
 
 For more information about me, connections, or just a friendly chat, all contact and social media details are available below.

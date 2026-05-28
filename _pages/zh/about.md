@@ -69,11 +69,11 @@ social: true
 我很幸运和这些研究团队合作过：
 
 **研究团队**:
-- UCLA Prof Vwani Roychowdhury 课题组
+- [UCLA Prof Vwani Roychowdhury 课题组](https://www.vwaniroychowdhury.com/)
 - [阿里巴巴 Accio 团队](https://www.accio.com/work)
-- UCLA, VAIL Lab
-- 快手 可灵团队
+- [UCLA, VAIL Lab](https://vail-ucla.github.io/)
+- [快手 可灵团队](https://kling.ai/)
 - UCLA, Center for Neurobehavioral Genetics
-- UCLA, Structures-Computer Interaction Lab
+- [UCLA, Structures-Computer Interaction Lab](https://structures.computer/)
 
 如果想了解更多信息，或者单纯只是想和我聊聊，可以在页面底部的联系方式icon找到我的邮箱/电话。
