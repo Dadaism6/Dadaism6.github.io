@@ -1,7 +1,4 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: http://dadaism6.github.io//sitemap.xml
