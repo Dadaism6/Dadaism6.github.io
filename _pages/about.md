@@ -4,7 +4,7 @@ title: About
 permalink: /
 lang: en
 lang_ref: about
-subtitle: ECE PhD @ UCLA | Research Intern @ Alibaba Accio | MS. CS 24' | BS. CS 22'
+subtitle: ECE PhD @ UCLA | Research Intern @ <a href="https://www.accio.com/work">Alibaba Accio</a> | MS. CS 24' | BS. CS 22'
 nav_order: 1
 profile:
   align: right
@@ -26,7 +26,7 @@ If you believe there's a potential fit, please feel free to [email me](mailto:ch
 <h2 style="margin-top: 50px;">About me</h2>
 <div class="abstract-block" markdown="1">
 <div class="abstract-paragraph" markdown="1">
-Hello there! I'm Chenda Duan, `a second-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I am currently also an intern at `Alibaba Accio`, where I do Agentic Post-Training.
+Hello there! I'm Chenda Duan, `a second-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I am currently also an intern at [Alibaba Accio](https://www.accio.com/work), where I do Agentic Post-Training.
 </div>
 
 <div class="abstract-paragraph" markdown="1">
@@ -38,7 +38,7 @@ I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, co
 
   <div class="research-block" markdown="1">
   <h3>Agentic post-training</h3>
-  At Alibaba Accio, I am the **core owner** of the training effort for `Accio’s next-generation agentic model`, focusing on agentic post-training, RL pipelines, interactive agent-environment infrastructure, and scalable training systems.
+  At [Alibaba Accio](https://www.accio.com/work), I am the **core owner** of the training effort for `Accio’s next-generation agentic model`, focusing on agentic post-training, RL pipelines, interactive agent-environment infrastructure, and scalable training systems. Our model will power [Accio Work](https://www.accio.com/work).
   </div>
 
   <div class="research-block" markdown="1">
