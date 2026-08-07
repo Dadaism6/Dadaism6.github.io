@@ -23,7 +23,7 @@ social: true
 <h2 style="margin-top: 50px;">关于我</h2>
 <div class="abstract-block" markdown="1">
 <div class="abstract-paragraph" markdown="1">
-你好！我是段辰达，UCLA Computer Engineering 二年级博士生，我的导师是 Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/)。我现在也在 [阿里巴巴 Accio](https://www.accio.com/work) 实习，主要负责大模型智能体后训练。
+你好！我是段辰达，UCLA Computer Engineering 二年级博士生，我的导师是 Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/)。我现在也在 [阿里巴巴 Accio](https://www.accio.com/work) 实习，主要负责大模型后训练。
 </div>
 
 <div class="abstract-paragraph" markdown="1">
@@ -35,7 +35,7 @@ social: true
 
   <div class="research-block" markdown="1">
   <h3>大模型的智能体后训练</h3>
-  在[阿里巴巴 Accio](https://www.accio.com/work)，我是 `Accio 的下一代智能体大模型` 训练工作的**核心负责人之一**，主要负责`模型后训练、强化学习、智能体环境构建，以及可扩展训练系统`。我们的模型将会支撑 [Accio Work](https://www.accio.com/work)。
+  在[阿里巴巴 Accio](https://www.accio.com/work)，我主要负责`Accio 的下一代智能体大模型` 的后训练工作，主要负责`模型后训练、强化学习、智能体环境构建，以及可扩展训练系统`。我们的模型将会支撑 [Accio Work](https://www.accio.com/work)。
   </div>
 
   <div class="research-block" markdown="1">

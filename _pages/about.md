@@ -38,7 +38,7 @@ I earned both my B.S. and M.S. degrees in Computer Science from UCLA as well, co
 
   <div class="research-block" markdown="1">
   <h3>Agentic post-training</h3>
-  At [Alibaba Accio](https://www.accio.com/work), I am the **core owner** of the training effort for `Accio’s next-generation agentic model`, focusing on agentic post-training, RL pipelines, interactive agent-environment infrastructure, and scalable training systems. Our model will power [Accio Work](https://www.accio.com/work).
+  At [Alibaba Accio](https://www.accio.com/work), I am the owner of the training effort for `Accio’s next-generation agentic model`, focusing on agentic post-training, RL pipelines, interactive agent-environment infrastructure, and scalable training systems. Our model will power [Accio Work](https://www.accio.com/work).
   </div>
 
   <div class="research-block" markdown="1">
