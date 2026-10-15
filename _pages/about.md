@@ -18,10 +18,10 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<!-- 🔍 **Actively Seeking Opportunities**:
-- **2026 Summer Internship / 2026 Winter and Spring Part-time Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
+🔍 **Actively Seeking Opportunities**:
+- **2027 Summer Internship / 2027 Winter and Spring Internship** as a Research Scientist Intern in US.
 
-If you believe there's a potential fit, please feel free to [email me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations. -->
+If you believe there's a potential fit, please feel free to [email me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
 
 <h2 style="margin-top: 50px;">About me</h2>
 <div class="abstract-block" markdown="1">
