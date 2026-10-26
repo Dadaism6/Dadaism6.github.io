@@ -19,14 +19,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 🔍 **Actively Seeking Opportunities**:
-- **2027 Summer Internship / 2027 Winter and Spring Internship** as a Research Scientist Intern in US.
+- **2027 Summer Internship / 2027 Winter and Spring Internship** as a Research Scientist Intern in US, focusing on agentic LLM/VLM post training.
 
 If you believe there's a potential fit, please feel free to [email me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
 
 <h2 style="margin-top: 50px;">About me</h2>
 <div class="abstract-block" markdown="1">
 <div class="abstract-paragraph" markdown="1">
-Hello there! I'm Chenda Duan, `a second-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I was an intern at [Alibaba Accio](https://www.accio.com/work) during 2026, where I do Agentic Post-Training and co-lead the development of [Occamy-1.0](https://huggingface.co/Accio-Lab/occamy-1.0), a frontier 35B co-work model.
+Hello there! I'm Chenda Duan, `a third-year Ph.D. student in Computer Engineering at UCLA`, where I am fortunate to be advised by Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/). I was an intern at [Alibaba Accio](https://www.accio.com/work) during 2026, where I do Agentic Post-Training and co-lead the development of [Occamy-1.0](https://huggingface.co/Accio-Lab/occamy-1.0), a frontier 35B co-work model.
 </div>
 
 <div class="abstract-paragraph" markdown="1">
